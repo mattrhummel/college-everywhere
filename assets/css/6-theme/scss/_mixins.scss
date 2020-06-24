@@ -9,5 +9,9 @@
 
 // Font Mixins
 @mixin body-font {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+// Font Mixins
+@mixin heading-font {
+  font-family: 'Bebas Nue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
