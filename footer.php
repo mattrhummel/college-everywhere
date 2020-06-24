@@ -10,7 +10,6 @@
  */
 
 ?>
-
   <!-- Footer -->
   <footer class="footer bg-light">
     <div class="container">
@@ -74,6 +73,13 @@
       </div>
     </div>
   </footer>
+
+<script>
+  $(document).ready(function() {
+    $("#requestInfoModal").modal();
+  });
+</script>
+
 
 <?php wp_footer(); ?>
 
