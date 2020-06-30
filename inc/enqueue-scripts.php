@@ -8,6 +8,8 @@ wp_deregister_script( 'jquery' );
 
 wp_deregister_script( 'jquery-migrate' );
 
+wp_enqueue_script( 'college-everywhere-jquery', '//code.jquery.com/jquery-3.5.1.slim.min.js', array(), '0.0.0', true);
+
 wp_enqueue_script( 'college-everywhere-js' , get_template_directory_uri() . '/dist/assets/js/main.min.js', array(), '0.0.0', true);
 
 }
