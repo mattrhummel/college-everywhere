@@ -14,7 +14,7 @@
   <footer class="footer bg-light">
     <div class="container">
       <div class="row">
-        <div class="col-lg-12">
+        <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
         <a href="https://www.germanna.edu" class="mx-sm-auto"><img src="https://78bbm3rv7ks4b6i8j3cuklc1-wpengine.netdna-ssl.com/wp-content/uploads/gcc-logo.svg" alt="white germanna logo" height="108" width="147" class="logo"/></a>
         <p class="mx-sm-auto">Powered by Germanna Community College</p>
         </div>
