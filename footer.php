@@ -42,14 +42,13 @@
     </div>
   </footer>
 
-<script>
-  $(document).ready(function() {
-    $("#requestInfoModal").modal();
-  });
-</script>
-
-
 <?php wp_footer(); ?>
+
+<script>
+    $(document).ready(function() {
+      $("#requestInfoModal").modal();
+    });
+</script>
 
 </body>
 </html>
