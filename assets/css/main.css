@@ -9979,8 +9979,8 @@ header.masthead {
   position: relative;
   background: no-repeat center center;
   background-size: cover;
-  padding-top: 1rem;
-  padding-bottom: 1rem; }
+  padding-top: 15px;
+  padding-bottom: 15px; }
   .call-to-action .row [class*='col-'] {
     background-clip: content-box;
     min-height: 500px; }
