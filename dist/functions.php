@@ -138,12 +138,14 @@ function college_everywhere_widgets_init() {
 	);
 }
 add_action( 'widgets_init', 'college_everywhere_widgets_init' );
-
 /**
  * Enqueue scripts and styles.
  */
 require get_template_directory() . '/inc/enqueue-scripts.php';
-
+/**
+ * Form templates.
+ */
+require get_template_directory() . '/inc/form-templates.php';
 /**
  * Implement the Custom Header feature.
  */
