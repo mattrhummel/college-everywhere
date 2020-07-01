@@ -2,16 +2,16 @@
   position: relative;
   background:  no-repeat center center;
   @include background-cover;
-  padding-top: 7rem;
-  padding-bottom: 7rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 
 .row [class*='col-'] {
   background-clip: content-box;
-  min-height: 400px;
+  min-height: 500px;
 
 }
 
-.callout {
+.bg-warning {
   background-color: #fbf065;
 }
 }

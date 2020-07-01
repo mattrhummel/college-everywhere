@@ -9979,12 +9979,12 @@ header.masthead {
   position: relative;
   background: no-repeat center center;
   background-size: cover;
-  padding-top: 7rem;
-  padding-bottom: 7rem; }
+  padding-top: 2rem;
+  padding-bottom: 2rem; }
   .call-to-action .row [class*='col-'] {
     background-clip: content-box;
-    min-height: 400px; }
-  .call-to-action .callout {
+    min-height: 500px; }
+  .call-to-action .bg-warning {
     background-color: #fbf065; }
 
 footer.footer {
