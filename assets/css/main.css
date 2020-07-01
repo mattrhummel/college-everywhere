@@ -9981,6 +9981,11 @@ header.masthead {
   background-size: cover;
   padding-top: 7rem;
   padding-bottom: 7rem; }
+  .call-to-action .row [class*='col-'] {
+    background-clip: content-box;
+    min-height: 400px; }
+  .call-to-action .callout {
+    background-color: #fbf065; }
 
 footer.footer {
   padding-top: 4rem;

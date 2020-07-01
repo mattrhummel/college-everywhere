@@ -4,4 +4,14 @@
   @include background-cover;
   padding-top: 7rem;
   padding-bottom: 7rem;
+
+.row [class*='col-'] {
+  background-clip: content-box;
+  min-height: 400px;
+
+}
+
+.callout {
+  background-color: #fbf065;
+}
 }
