@@ -20,7 +20,7 @@
 
 </head>
 
-<body <?php body_class(); ?> style="border-top: 40px solid #fefe00">
+<body <?php body_class(); ?>>
 
 <div id="page">
 <a class="sr-only sr-only-focusable" href="#primary">Skip to content test</a>

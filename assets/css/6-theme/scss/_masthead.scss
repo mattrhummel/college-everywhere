@@ -1,7 +1,12 @@
+body {
+  border-top: 20px solid #fefe00;
+}
+
 header.masthead {
   position: relative;
   background-color: $gray-800;
   background-image: no-repeat center center;
+
   @include background-cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
