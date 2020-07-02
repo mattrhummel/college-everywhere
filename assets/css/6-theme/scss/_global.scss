@@ -13,3 +13,7 @@ h6 {
  .bg-warning {
     background-color: #fbf065 !important;
  }
+
+ div.wpforms-container-full .wpforms-form .wpforms-field:not(.wpforms-field-phone):not(.wpforms-field-select-style-modern) {
+    overflow-x: none;
+}
