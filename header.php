@@ -24,6 +24,7 @@
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><link rel="profile" href="https://gmpg.org/xfn/11">
 	<?php wp_head(); ?>
+	<meta name="google-site-verification" content="P28NFm-IpgZF7qYJAWLS6yfG0lgCocO7ResGnT07Bq4" />
 </head>
 
 <body <?php body_class(); ?>>
