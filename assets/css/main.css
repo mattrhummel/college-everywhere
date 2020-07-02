@@ -9925,7 +9925,10 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #fbf065 !important; }
 
 div.wpforms-container-full .wpforms-form .wpforms-field:not(.wpforms-field-phone):not(.wpforms-field-select-style-modern) {
-  overflow-x: none !important; }
+  overflow-x: visible !important; }
+
+div.wpforms-container-full .wpforms-form .wpforms-field:not(.wpforms-field-phone):not(.wpforms-field-select-style-modern) {
+  overflow-x: visible !important; }
 
 body {
   border-top: 15px solid #fefe00; }

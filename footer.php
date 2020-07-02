@@ -15,7 +15,7 @@
       <div class="row">
         <div class="col-lg-12 h-100 text-center my-auto">
         <a href="https://www.germanna.edu"><img src="https://78bbm3rv7ks4b6i8j3cuklc1-wpengine.netdna-ssl.com/wp-content/uploads/gcc-logo.svg" alt="white germanna logo" height="158" width="197" class="logo"/></a>
-        <p class="mx-sm-auto">Powered by Germanna Community College</p>
+        <p class="mx-sm-auto">Powered by <a href="https://www.germanna.edu">Germanna Community College</a></p>
         </div>
     </div>
    <div class="row">
