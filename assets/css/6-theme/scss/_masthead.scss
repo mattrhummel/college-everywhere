@@ -1,5 +1,5 @@
 body {
-  border-top: 20px solid #fefe00;
+  border-top: 15px solid #fefe00;
 }
 header.masthead {
   position: relative;
@@ -7,8 +7,8 @@ header.masthead {
   background-image: no-repeat center center;
 
   @include background-cover;
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   .overlay {
     position: absolute;
     background-color: $gray-900;
@@ -22,8 +22,8 @@ header.masthead {
     font-size: 2rem;
   }
   @media (min-width: 768px) {
-    padding-top: 12rem;
-    padding-bottom: 12rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
     h1 {
       font-size: 3rem;
     }
