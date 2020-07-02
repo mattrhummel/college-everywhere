@@ -21,15 +21,15 @@
    <div class="row">
         <div class="col-lg-12 h-100 text-center my-auto">
           <ul class="list-inline mb-2">
-            <li class="list-inline-item text-sm-center">
+            <li class="text-sm-center d-lg-inline-block">
               <a href="https://www.germanna.edu/about-germanna/privacy-policy/">Privacy</a>
             </li>
-            <li class="list-inline-item text-sm-center">&sdot;</li>
-            <li class="list-inline-item">
+            <li class="text-sm-center d-lg-inline-block">&sdot;</li>
+            <li class="text-sm-center d-lg-inline-block">
               <a href="https://www.germanna.edu/statements-policies/">Statements & Policies</a>
             </li>
-            <li class="list-inline-item  text-sm-center">&sdot;</li>
-            <li class="list-inline-item">
+            <li class="text-sm-center d-lg-inline-block">&sdot;</li>
+            <li class="text-sm-center d-lg-inline-block">
               <a href="https://www.germanna.edu/about-germanna/accreditation/">Accreditation</a>
             </li>
           </ul>
