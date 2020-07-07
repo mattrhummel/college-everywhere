@@ -14,6 +14,7 @@
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11698249-12"></script>
+<!-- Global site tag (gtag.js) - Google Ads: 991441201 --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-991441201"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-991441201'); </script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
