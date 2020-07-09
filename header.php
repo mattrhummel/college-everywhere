@@ -12,9 +12,10 @@
 <!doctype html>
 <html <?php language_attributes(); ?>>
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Ads: 991441201 --> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-991441201"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-991441201'); </script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11698249-12"></script>
-<!-- Global site tag (gtag.js) - Google Ads: 991441201 --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-991441201"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-991441201'); </script>
+		<!-- Event snippet for Applications conversion page In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. --> <script> function gtag_report_conversion(url) { var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-991441201/-L2SCKvsxGEQseLg2AM', 'value': 150.0, 'currency': 'USD', 'event_callback': callback }); return false; } </script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -29,6 +30,7 @@
 </head>
 
 <body <?php body_class(); ?>>
+
 
 <div id="page">
 <a class="sr-only sr-only-focusable" href="#primary">Skip to content test</a>
