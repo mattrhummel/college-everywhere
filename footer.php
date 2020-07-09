@@ -10,7 +10,7 @@
  */
 
 ?>
-  <footer class="footer bg-light" style="padding-bottom: 300px;">
+  <footer class="footer bg-light">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 h-100 text-center my-auto">
