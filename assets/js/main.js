@@ -15,7 +15,8 @@
  //# sourceMappingURL=bootstrap.min.js.map
 $( document ).ready(function() {
 
-  // Get started!
+	  // Get started!
+	  $('.toast').toast('show');
 
 });
 
