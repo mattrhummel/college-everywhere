@@ -9998,9 +9998,6 @@ header.masthead {
 
 footer.footer {
   padding-top: 4rem;
-  padding-bottom: 500px; }
-  @media (min-width: 768px) {
-    footer.footer {
-      padding-bottom: 300px; } }
+  padding-bottom: 140px; }
 
 /*# sourceMappingURL=main.css.map */
