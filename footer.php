@@ -40,8 +40,7 @@
   </footer>
 <!-- Flexbox container for aligning the toasts -->
 <div class="toast text-center" data-autohide="false" style="position: fixed; z-index: 10000; right: 0; bottom: 20px; background-color: #fbf065; width: 350px;">
-  <div class="toast-header" style="background-color: #fbf065;">
-    <h5 class="text-dark text-center">Get Started</h5>
+  <div class="toast-header text-center" style="background-color: #fbf065;">
    
     <button type="button" class="ml-auto mb-1 close" data-dismiss="toast" aria-label="Close">
     <span aria-hidden="true">&times;</span>
@@ -49,6 +48,7 @@
 
   </div>
   <div class="toast-body text-center" style="background-color: #fbf065">
+    <h5 class="text-dark text-center">Get Started</h5>
     <p>Register by August 7. Classes start August 10</p>
    <button class="btn btn-dark btn-block" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
     Request Information
