@@ -49,7 +49,7 @@
   </div>
   <div class="toast-body text-center" style="background-color: #fbf065">
     <h5 class="text-dark text-center">Get Started</h5>
-    <p>Register by August 7. Classes start August 10</p>
+    <p class="text-dark">Register by August 7. Classes start August 10</p>
    <button class="btn btn-dark btn-block" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
     Request Information
   </button>
@@ -60,15 +60,20 @@
 <div class="collapse p-0" id="collapseExample">
   <div class="card card-body p-0 pb-2" style="background-color: #fbf065; border: none;">
       <div class="d-none d-md-block">
+        <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
    <img src="https://fivegstaging.wpengine.com/wp-content/uploads/GCCstaff006-1.jpg" alt="christian tomkins" class="img-fluid img-thumbnail mb-4">
-   <h6>Pleased to—virtually—meet you</h6>
-   <p>Our online, accelerated degree programs are a smart option for getting to your future fast. I’m here to answer any of your questions and help you get started.</p>
+ </div>
+ <div class="col-lg-6">
+   <h6 class="text-dark text-left">Pleased to—virtually—meet you</h6>
+   <p class="text-dark text-left">Our online, accelerated degree programs are a smart option for getting to your future fast. I’m here to answer any of your questions and help you get started.</p>
 
-  <p>Christian Tompkins<br/>
-  <em>Enrollment Services</em></p>
-</div>
-    <?php echo do_shortcode( '[wpforms id="17"]'); ?>
+  <p class="text-dark">Christian Tompkins<br/>
+  <em class="text-dark">Enrollment Services</em></p>
   </div>
+  <?php echo do_shortcode( '[wpforms id="17"]'); ?>
+</div>
 </div>
   </div>
 </div>
