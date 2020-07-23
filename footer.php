@@ -39,7 +39,7 @@
     </div>
   </footer>
 <!-- Flexbox container for aligning the toasts -->
-<div class="toast text-center" data-autohide="false" style="position: fixed; z-index: 10000; right: 0; bottom: 20px; background-color: #fbf065; width: 300px;">
+<div class="toast text-center" data-autohide="false" style="position: fixed; z-index: 10000; right: 0; bottom: 20px; background-color: #fbf065; width: 320px;">
   <div class="toast-header" style="background-color: #fbf065;">
     <h5 class="text-dark text-center">Get Started</h5>
    
