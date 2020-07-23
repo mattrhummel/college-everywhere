@@ -49,7 +49,7 @@
   </div>
   <div class="toast-body text-center" style="background-color: #fbf065">
     <h5 class="text-dark text-center">Get Started</h5>
-    <p>Register by August 7. Classes start August 10</p>
+    <p class="text-dark">Register by August 7. Classes start August 10</p>
    <button class="btn btn-dark btn-block" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
     Request Information
   </button>
