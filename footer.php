@@ -72,11 +72,17 @@
   <p class="text-dark">Christian Tompkins<br/>
   <em class="text-dark">Enrollment Services</em></p>
   </div>
+</div>
+<div class="container">
+  <div class="row">
+      <div class="col">
   <?php echo do_shortcode( '[wpforms id="17"]'); ?>
+</div>
 </div>
 </div>
   </div>
 </div>
+
 <?php wp_footer(); ?>
 <script>
 $(document).ready(function(){
