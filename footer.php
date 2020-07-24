@@ -38,8 +38,6 @@
       </div>
     </div>
   </footer>
-
-
 <?php wp_footer(); ?>
 <script>
 $(document).ready(function(){
