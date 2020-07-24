@@ -43,12 +43,12 @@
 <?php wp_footer(); ?>
 <script>
 $(document).ready(function(){
-  $('.toast').toast('show');
+  $('.toast').toast();
 });
 </script>
 <script>
 $(document).scroll(function() {
-    if ($(this).scrollTop()>100)
+    if ($(this).scrollTop()>300)
     {
         $('.toast').fadeIn();
     }
