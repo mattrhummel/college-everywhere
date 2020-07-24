@@ -44,17 +44,5 @@ $(document).ready(function(){
   $('.toast').toast();
 });
 </script>
-<script>
-$(document).scroll(function() {
-    if ($(this).scrollTop()>300)
-    {
-        $('.toast').fadeIn();
-    }
-    else
-     {
-      $('.toast').fadeOut();
-     }
- });
-</script>
 </body>
 </html>
