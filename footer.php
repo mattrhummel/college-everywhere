@@ -8,7 +8,6 @@
  *
  * @package college_everywhere
  */
-
 ?>
   <footer class="footer bg-light">
     <div class="container">
@@ -38,10 +37,11 @@
       </div>
     </div>
   </footer>
+
 <?php wp_footer(); ?>
 <script>
 $(document).ready(function(){
-  $('.toast').toast();
+  $('.toast').toast('show');
 });
 </script>
 </body>
