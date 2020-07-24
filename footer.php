@@ -50,7 +50,9 @@
   <div class="toast-body text-center" style="background-color: #fbf065">
     <h5 class="text-dark text-center">Get Started</h5>
     <p class="text-dark">Register by August 7. Classes start August 10</p>
-  <button class="btn btn-dark float-right d-inline-block" type="button" data-toggle="modal" data-target="#requestInfoModal">Request Information</button>
+   <button class="btn btn-dark btn-block" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    Request Information
+  </button>
      <a href="https://calendly.com/ctompkins-2/germanna-community-college-college-everywhere" class="btn btn-dark btn-block mb-2">
     Book an online session
   </a>
